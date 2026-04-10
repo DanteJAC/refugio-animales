@@ -50,7 +50,7 @@ public class RefugioAnimales {
                     //adoptarAniamles();
                     break;
                 case 4:
-                    mostrarPorEstado();
+                    mostrarAnimalesDisponibles(estadoAnimal);
                     break;
                 case 5:
                     //mostrarPorEstado();
